@@ -1,6 +1,8 @@
-
 # Created by https://www.gitignore.io/api/linux,macos,pycharm,windows,webstorm,jupyternotebook
 # Edit at https://www.gitignore.io/?templates=linux,macos,pycharm,windows,webstorm,jupyternotebook
+
+# manually added
+__pycache__
 
 ### JupyterNotebook ###
 .ipynb_checkpoints
